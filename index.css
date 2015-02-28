@@ -1,6 +1,7 @@
 
 .vco-timeline .vco-navigation .timenav-background {
-    background-color: rgba(3, 215, 21, 0.13)
+    /*background-color: rgba(3, 215, 21, 0.13)*/
+    background-color: rgba(178, 78, 228, 0.13);
 }
 
 
@@ -8,13 +9,19 @@
 }
 
 .vco-storyjs a {
-color: #48A448;
+/*color: #48A448;*/
+color: #cd0e48;
 }
 
 .vco-timeline .vco-navigation .timenav .content .marker.active .flag .flag-content h3, .vco-timeline .vco-navigation .timenav .content .marker.active .flag-small .flag-content h3 {
-color: #48A448;
+/*color: #48A448;*/
+color: #5041B0;
 }
 
 .vco-timeline .vco-navigation .timenav-background .timenav-line {
-background-color: #FFF900;
+background-color: #cd0e48;
+}
+
+.vco-storyjs .vco-feature p {
+color: #6d6d6d;
 }

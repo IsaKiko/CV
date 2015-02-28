@@ -25,3 +25,11 @@ background-color: #cd0e48;
 .vco-storyjs .vco-feature p {
 color: #4D4747;
 }
+
+.footnote a {
+position: absolute;
+font-size: .8em;
+bottom: 5px;
+z-index: 100;
+right: 10px;	
+}
